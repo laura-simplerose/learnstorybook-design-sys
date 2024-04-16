@@ -66,3 +66,17 @@ export const Large = {
     </>
   ),
 };
+
+/*
+ * New story using Controls
+ * Read more about Storybook templates at:
+ * https://storybook.js.org/docs/react/writing-stories/introduction#using-args
+ */
+export const Controls = {
+  args: {
+    loading: false,
+    size: 'tiny',
+    username: 'Dominic Nguyen',
+    src: 'https://avatars.githubusercontent.com/u/263385',
+  },
+};
