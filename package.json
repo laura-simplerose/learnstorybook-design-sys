@@ -1,5 +1,5 @@
 {
-  "name": "learnstorybook-design-system-template",
+  "name": "@laura-b/learnstorybook-design-sys",
   "version": "0.1.1",
   "private": true,
   "main": "dist/cjs/index.js",
@@ -90,5 +90,13 @@
     "sample",
     "repo"
   ],
-  "author": ""
+  "author": "laura-b",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laura-simplerose/learnstorybook-design-sys.git"
+  },
+  "bugs": {
+    "url": "https://github.com/laura-simplerose/learnstorybook-design-sys/issues"
+  },
+  "homepage": "https://github.com/laura-simplerose/learnstorybook-design-sys#readme"
 }
