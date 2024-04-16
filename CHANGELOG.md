@@ -1,5 +1,17 @@
 # v0.1.2 (Tue Apr 16 2024)
 
+#### ⚠️ Pushed to `main`
+
+- update package json ([@laura-simplerose](https://github.com/laura-simplerose))
+
+#### Authors: 1
+
+- [@laura-simplerose](https://github.com/laura-simplerose)
+
+---
+
+# v0.1.2 (Tue Apr 16 2024)
+
 
 
 ---
