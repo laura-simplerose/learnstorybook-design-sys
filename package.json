@@ -18,7 +18,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
-    "chromatic": "npx chromatic --project-token=chpt_9a881f88c815901"
+    "chromatic": "npx chromatic --project-token=chpt_9a881f88c815901",
+    "test-storybook": "test-storybook",
+    "build-storybook-docs": "storybook build  --docs"
   },
   "devDependencies": {
     "@babel/core": "^7.22.5",
@@ -42,7 +44,7 @@
     "@storybook/react-vite": "^8.0.8",
     "@storybook/test": "^8.0.8",
     "@vitejs/plugin-react": "^3.1.0",
-    "auto": "^10.3.0",
+    "auto": "^10.46.0",
     "boxen": "^5.0.1",
     "chromatic": "^11.3.0",
     "dedent": "^0.7.0",
@@ -76,5 +78,17 @@
   },
   "resolutions": {
     "jackspeak": "2.1.1"
-  }
+  },
+  "dependencies": {
+    "@storybook/addon-a11y": "^8.0.8",
+    "@storybook/test-runner": "^0.17.0"
+  },
+  "description": "The Storybook design system tutorial is a subset of the full [Storybook design system](https://github.com/storybookjs/design-system/), created as a learning resource for those interested in learning how to write and publish a design system using best in practice techniques.",
+  "keywords": [
+    "tutorial",
+    "storybook",
+    "sample",
+    "repo"
+  ],
+  "author": ""
 }
